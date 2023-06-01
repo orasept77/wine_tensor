@@ -1,5 +1,5 @@
 # wine_tensor
-https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data for download file
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data for download file 
 
 
 Сначала код импортирует необходимые библиотеки, такие как pandas, sklearn, и MLPClassifier из sklearn.neural_network.
